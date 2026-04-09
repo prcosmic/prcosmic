@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Building AI-driven WordPress & WooCommerce solutions  <br>👯 Open to collaboration on scalable web projects  <br>🤝 Exploring advanced automation & system design  <br>🌱 Learning AI + modern JS for faster development  <br>💬 Ask me about WordPress, performance & custom development  <br>⚡ Turning ideas into production-ready websites at lightning speed ⚡
+WordPress & WooCommerce Developer focused on performance, scalability, and clean architecture.
+
+I build custom plugins, dynamic AJAX systems, and optimized websites using AI-powered workflows.
+
+💬 Expertise: Performance optimization • Custom development • Scalable builds
 
 
 ## 🌐 Socials:
